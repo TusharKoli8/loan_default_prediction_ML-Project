@@ -1,4 +1,4 @@
-# Loan Default Prediction 💳
+# Loan Default Prediction 
 
 ##  Project Overview
 This project predicts whether a customer will default on a loan using Machine Learning techniques. It helps financial institutions identify high-risk customers and make better lending decisions.
